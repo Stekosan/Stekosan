@@ -9,7 +9,7 @@
 - 🔭  I’m interested in ML, AI and LLM
   
 
-- 🌱 I’m currently learning ML and AI @Willamette University  
+- 🌱 I’m currently learning ML and AI Ethics @Willamette University  
   
 
 - ❓ Ask me about anything related to Informatica and related technologies  
