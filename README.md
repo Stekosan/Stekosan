@@ -2,21 +2,19 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+ 
+ # Hi there! 👋 I'm Stephane, a Data Engineering Director passionate about ML, AI, and cybersecurity.
 
-### <div align="center">I'm Stephane, a data engineering director</div>  
-  
+🔭 I'm currently delving into the exciting worlds of Machine Learning and AI Ethics at Willamette University.
 
-- 🔭  I’m interested in ML, AI and LLM
-  
+🌱 Always eager to learn and grow, I embrace new challenges in the ever-evolving field of technology.
 
-- 🌱 I’m currently learning ML and AI Ethics @Willamette University  
-  
+💬 Ask me about anything related to Informatica, Data Quality, Data Governance, Splunk, Data Engineering and its associated technologies – I love sharing knowledge and insights!
 
-- ❓ Ask me about anything related to Informatica and related technologies  
-  
+🤝 I'm actively seeking collaborations with the community on Machine Learning, Generative AI.
 
-- 💞️ I’m looking to collaborate with the commmunity  
-  
+Looking forward to connecting with like-minded individuals and contributing to the exciting developments in the tech landscape.
+
 
 <br/>  
 
