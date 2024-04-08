@@ -3,7 +3,7 @@
 </div>  
   
  
- # Hi there! 👋 I'm Stephane, a Data Engineering Director passionate.
+ # Hi there! 👋 I'm Stephane, a Data Engineering Director.
 
 🔭 I'm currently delving into the exciting worlds of Machine Learning and AI Ethics at Willamette University.
 
