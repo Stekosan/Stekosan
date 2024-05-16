@@ -11,7 +11,7 @@
 
 💬 Ask me about anything related to Informatica, Data Quality, Data Governance, Splunk, Data Engineering and its associated technologies – I love sharing knowledge and insights!
 
-🤝 I'm actively seeking collaborations with the community on Machine Learning, Generative AI.
+🤝 I'm actively seeking collaborations with the data community on Machine Learning, Generative AI.
 
 Looking forward to connecting with like-minded individuals and contributing to the exciting developments in the tech landscape.
 
