@@ -1,12 +1,6 @@
 # 💫 About Me:
 # Hi there! 👋 I'm Stephane,<br><br>
 
-🔭 I'm currently delving into the exciting worlds of Machine Learning and AI Ethics at Willamette University.<br>
-
-🌱 Always eager to learn and grow, I embrace new challenges in the ever-evolving field of technology.<br>
-
-💬 Ask me about anything related to Informatica, Data Quality, Data Governance, Splunk, Data Engineering and its associated technologies – I love sharing knowledge and insights!<br>
-
 🤝 I'm actively seeking collaborations with the data community on Machine Learning, Generative AI.<br><br>Looking forward to connecting with like-minded individuals and contributing to the exciting developments in the tech landscape.
 
 
